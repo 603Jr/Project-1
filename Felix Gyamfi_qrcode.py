@@ -28,3 +28,6 @@ while True:
             window['-QRCODE-'].update('qr.png')
 
 window.close()
+'''
+ID: 10959957
+'''
